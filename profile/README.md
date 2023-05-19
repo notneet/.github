@@ -1,7 +1,6 @@
 YaHallo~
 
 ## Ideas to be realized:
----
 
 <details>
 <summary>Nime Crawler</summary>
