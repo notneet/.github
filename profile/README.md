@@ -14,7 +14,7 @@ For the storage itself, I'd use:
 
 Then, the technology that I will use:
 - NestJS as BackEnd -- [nime-crawler](https://github.com/notneet/nime-crawler)
-- NextJS as FrontEnd -- undefined
+- NextJS as FrontEnd -- [NotNime](https://github.com/notneet/NotNime)
 
 Then in the future maybe I will expand it to Telegram Bot or I will make an API client
 </details>
